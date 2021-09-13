@@ -1,0 +1,9 @@
+{
+	"name": "ust-df-555",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0240ffd-56ca-428a-bc97-4d63f6512803",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
